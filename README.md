@@ -1,4 +1,4 @@
-### Hi there I am Adithya 👋
+# Hi there I am Adithya 👋
 
 ## I am currently learning Web(3)Development
 <!--
