@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=Adithya-Sr&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Adithya-Sr/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sr)](https://github.com/Adithya-Sr/github-readme-stats)
+
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
